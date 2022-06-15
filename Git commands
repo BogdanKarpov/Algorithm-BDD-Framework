@@ -1,0 +1,29 @@
+# Git commands
+git add .    // add changes
+git add *Codewars #1 Solution .js   // add changes in all files
+git add folder_name/
+git add folder_name/*Codewars #1 Solution .js
+git status
+git rm --cached file_name - remove file from GitHub
+git commit -m "message"
+git log
+git log --oneline
+git checkout commit_id - revert version to previous commit
+git checkout master - go to the
+git checkout your_branch_name
+git revert commit_id - cancel commit
+git reset commit_id --hard - delete commit
+:wq - exit from VIM
+git branch your_branch_name - create your branch
+git checkout your_branch_name - go to your branch
+git branch - shows your local branches
+git branch -a - see ALL branches
+git branch -d <branchname> - Delete the feature branch
+git checkout -b your_branch_name - create your new branch and go to your branch
+git remote - check repository connection
+git clone your_repository_link - clone repository to your local computer
+git push origin master - Push the branch to your remote master repository
+git push origin <your_branchname> - Push the branch to your branch remote repository
+git pull - update your local repository
+*/
+// needs more commands
